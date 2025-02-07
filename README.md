@@ -9,39 +9,39 @@ Below is a rough plan:
 
 ##### Scope and Key Goals:
     
-    - Identify key economic factors that influence gold price trends.
-    - Create a predictive model to forecast the price of gold in the future (1 month)
+- Identify key economic factors that influence gold price trends.
+- Create a predictive model to forecast the price of gold in the future (1 month)
 
 ##### Identify Data Sources
     
-    - Explore options for collecting data, APIs and web scraping
+- Explore options for collecting data, APIs and web scraping
 
 #### 2. Data Scraping (Planning)
     
-    - Use `requests` and `pandas` to query and scrape data
-    - Automate scraping to update data daily
+- Use `requests` and `pandas` to query and scrape data
+- Automate scraping to update data daily
 
 #### 3. Data Cleaning & Preprocessing
 
-    - Handle missing values + outliers
-    - Merge and align the various data sources
-    - Feature engineering?
+- Handle missing values + outliers
+- Merge and align the various data sources
+- Feature engineering?
 
 #### 4. Exploratory Data Analysis (**EDA**)
 
-    - Statistical summaries
-    - Time series analysis
-    - Visualise relationships
-    - Identify key events
+- Statistical summaries
+- Time series analysis
+- Visualise relationships
+- Identify key events
 
 #### 5. Data Visualisation
 
-    - Create an interactive dashboard using Tableau
+- Create an interactive dashboard using Tableau
 
 #### 6. Model Building & Forecasting
 
-    - Explore a variety of techniques, including classical statistical models and machine learning
-    - Feature selection
-    - Model evaluation: make a training testing split to test performance agaisnt real outcomes
-    - Visualise the forecast
+- Explore a variety of techniques, including classical statistical models and machine learning
+- Feature selection
+- Model evaluation: make a training testing split to test performance agaisnt real outcomes
+- Visualise the forecast
 
