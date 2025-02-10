@@ -5,7 +5,7 @@ This project will follow a typical data science life cycle in order to explore a
 
 Below is a rough plan:
 
-#### 1. Project Planning and Design (In Progress)
+#### 1. Project Planning and Design (Completed)
 
 ##### Scope and Key Goals:
     
@@ -16,12 +16,11 @@ Below is a rough plan:
     
 - Explore options for collecting data, APIs and web scraping
 
-#### 2. Data Scraping (Planning)
+#### 2. Data Scraping (In Progress)
     
-- Use `requests` and `pandas` to query and scrape data
-- Automate scraping to update data daily
+- Use Python to query and scrape data
 
-#### 3. Data Cleaning & Preprocessing
+#### 3. Data Cleaning & Preprocessing (In Progress)
 
 - Handle missing values + outliers
 - Merge and align the various data sources
