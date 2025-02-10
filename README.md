@@ -19,6 +19,8 @@ Below is a rough plan:
 #### 2. Data Scraping (In Progress)
     
 - Use Python to query and scrape data
+    - Code contained in `data_collection/scrape_data.py` scrapes web for CPI and S&P500 data, outputting to a CSV.
+    - Did not scrape the rest of the data in `data` folder as sources did not allow for such methods, rather downloaded as CSV. 
 
 #### 3. Data Cleaning & Preprocessing (In Progress)
 
