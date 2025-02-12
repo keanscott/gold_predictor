@@ -75,10 +75,10 @@ def get_sp500_data(url):
 
 def main():
     cpi_data = get_cpi_data(url=cpi_url)
-    cpi_data.to_csv("../data/cpi_data.csv", index=False)
+    cpi_data.to_csv("./data/cpi_data.csv", index=False)
 
     sp500_data = get_sp500_data(url=sp500_url)
-    sp500_data.to_csv("../data/sp500_data.csv", index=False)
+    sp500_data.to_csv("./data/sp500_data.csv", index=False)
 
 
 if __name__ == '__main__':
